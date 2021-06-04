@@ -1,6 +1,5 @@
 ## LIVE DEMO :- <a href="https://gracious-meninsky-3150af.netlify.app">Authentication and Authorization</a>
-In this assignment let's build a **Authentication Functionality** App by
-applying the concepts we have learned till now.
+In this assignment let's build a **Authentication Functionality** 
 
 ### Refer to image below:
 
@@ -36,9 +35,9 @@ applying the concepts we have learned till now.
 <details close>
 <summary>Click to view the Functionality to be added</summary>
 
-#### Add Functionality
+#### Added Functionality
 
-The app must have the following functionalities
+
 
 - When an unauthenticated user tries to access the `HomeRoute` or `AboutRoute`
   then the page should be redirected to the `LoginRoute`.
@@ -68,7 +67,7 @@ navigated to the `NotFoundRoute`
 <details close>
 <summary>Click to view the Implementation Files</summary>
 
-- Your task is to complete the implementation of
+
 
   - `src/App.js`
   - `src/components/Login/index.js`
@@ -109,15 +108,5 @@ navigated to the `NotFoundRoute`
 >
 > </details>
 
-#### Font-families
 
-- Roboto
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being
->   imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a
->   look at the Cheat Sheets.
